@@ -1,5 +1,5 @@
-<com.icddrb.app.maternalhealth.TextViewBangla xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:bngspin="http://schemas.android.com/apk/res/com.icddrb.app.maternalhealth"
+<com.icddrb.app.mlhecommunity.TextViewBangla xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:bngspin="http://schemas.android.com/apk/res/com.icddrb.app.mlhecommunity"
     android:id="@android:id/text1"
     style="?android:attr/spinnerDropDownItemStyle"
     android:layout_width="match_parent"
