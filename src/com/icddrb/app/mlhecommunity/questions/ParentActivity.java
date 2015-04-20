@@ -7268,7 +7268,7 @@ public class ParentActivity extends BaseActivity implements FormListener {
 							"Household ID is inconsistent");
 					return;
 				}*/
-				if (mother.length() < 1) { // As if (Integer.valueOf(mother) >
+				if (mother.length() < 2) { // As if (Integer.valueOf(mother) >
 											// 8) length cannot be 2 digit
 					CommonStaticClass.showFinalAlert(con,
 							"Community ID is inconsistent");
